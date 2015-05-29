@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/marcelofabri/UIView-UIImageEffects"
   s.license          = 'MIT'  
   s.author           = { "Marcelo Fabri" => "me@marcelofabri.com" }
-  s.source           = { :git => "git@github.com:marcelofabri/UIView-UIImageEffects.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/marcelofabri/UIView-UIImageEffects.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/marcelofabri_'
   
   s.platform     = :ios, '7.0'
