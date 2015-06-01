@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = "UIView+UIImageEffects"
-  s.version          = "0.0.1"
+  s.version          = "0.0.2"
   s.summary          = "Blur on UIView"
   s.description      = "Create blurred images from an UIView"
   s.homepage         = "https://github.com/marcelofabri/UIView-UIImageEffects"
-  s.license          = 'MIT'  
+  s.license          = 'MIT'
   s.author           = { "Marcelo Fabri" => "me@marcelofabri.com" }
   s.source           = { :git => "https://github.com/marcelofabri/UIView-UIImageEffects.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/marcelofabri_'
